@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>v@yhpvse.pbz</string>
+	<key>contactName</key>
+	<string>Lucifr</string>
+	<key>description</key>
+	<string>More themes for TextMate 2.
+
+source:
+- https://github.com/marcus/textmate_themes/
+- https://github.com/filmgirl/TextMate-Themes/
+- https://github.com/Anomareh/Monokai-Dark.tmTheme
+- https://github.com/mrlundis/Monokai-Dark-Soda.tmTheme</string>
+	<key>name</key>
+	<string>More Themes</string>
+	<key>uuid</key>
+	<string>5EEC466B-ED72-4C5A-A69B-D57AF614AE30</string>
+</dict>
+</plist>
